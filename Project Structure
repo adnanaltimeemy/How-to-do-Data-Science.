@@ -1,0 +1,12 @@
+my-data-science-project/
+│
+├── data/
+│   └── data.csv                # Raw dataset
+├── notebooks/
+│   └── exploratory_analysis.ipynb  # Jupyter notebooks
+├── scripts/
+│   └── data_cleaning.py        # Python script for cleaning data
+├── .gitignore                  # Files to ignore in Git
+├── README.md                   # Project overview
+├── requirements.txt            # List of dependencies
+└── main.py                     # Entry-point script
